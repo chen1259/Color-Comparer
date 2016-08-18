@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+h3 {
+    display:inline;
+}
+
+#infoBar {
+    width:100%;
+    height: 5%;
+    text-align:center;
+}
+
+#colorContainer {
+    width:100%;
+    height: 95%;
+    padding:0;
+}
+
+ul {
+    width:100%;
+    height:100%;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style:none;
+    float:left;
+    width:100%;
+    margin:0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.fa-times-circle {
+    margin-left: 47%;
+    font-size:20em;
+}
